@@ -8,3 +8,4 @@ module:
   imports:
     - path: /data/github/on-nix/theme
 publishDir: docs
+taxonomies: []
