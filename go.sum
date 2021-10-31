@@ -28,3 +28,5 @@ github.com/on-nix/theme v0.0.0-20211031084128-6a447b877efe h1:ia/VvJFopNd9L8fIoA
 github.com/on-nix/theme v0.0.0-20211031084128-6a447b877efe/go.mod h1:AY7uBQ2mWxVv2lZXR7lszmKKZLGg9lvWaXaoEWxjBiM=
 github.com/on-nix/theme v0.0.0-20211031084419-6ffa1bba97c8 h1:Y8hBI/xhK6Tmbg6+jWPuaG4Xd3Gu/UtyoJtI7wnv9bU=
 github.com/on-nix/theme v0.0.0-20211031084419-6ffa1bba97c8/go.mod h1:AY7uBQ2mWxVv2lZXR7lszmKKZLGg9lvWaXaoEWxjBiM=
+github.com/on-nix/theme v0.0.0-20211031084747-3409ab7212d9 h1:RTBPsiIjHM5u+lXhc5rM7dcRpxq+z6a0DWeSkqvPsaM=
+github.com/on-nix/theme v0.0.0-20211031084747-3409ab7212d9/go.mod h1:AY7uBQ2mWxVv2lZXR7lszmKKZLGg9lvWaXaoEWxjBiM=
